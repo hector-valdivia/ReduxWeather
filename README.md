@@ -1,25 +1,18 @@
-# ReduxSimpleStarter
+# ReduxWeather
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Interested in learning [Redux](https://www.udemy.com/react-redux/)
 
-###Getting Started###
+###Repos used for this project###
+* Axios
+* React Google Maps
+* React Sparklines
+* Redux-Promise
+* lodash
 
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+####So to make it work#####
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+	> git clone git@github.com/hector-valdivia/ReduxWeather.git
+	> cd ReduxWeather
 	> npm install
 	> npm start
 ```
